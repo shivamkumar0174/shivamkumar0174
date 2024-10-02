@@ -11,9 +11,9 @@
 I love what i'm doing.
 
 - 📫 Socials :
-- Twitter
-- Linkedin
-- Instagram
+- Twitter: @Shiv_amyadav
+- Linkedin: Shivam Kumar
+
 
 💻 Tech Stack:
 HTML, CSS, JAVASCRIPT, NODE.JS, EXPRESS, MONGODB.
