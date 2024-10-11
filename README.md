@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkumar0174" alt="shivamkumar0174" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@shiv_amyadav" target="blank"><img src="https://img.shields.io/twitter/follow/@shiv_amyadav?logo=twitter&style=for-the-badge" alt="@shiv_amyadav" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shiv_amyadav" target="blank"><img src="https://img.shields.io/twitter/follow/shiv_amyadav?logo=twitter&style=for-the-badge" alt="shiv_amyadav" /></a> </p>
 
 - 🔭 I’m currently working on [RANDOM-URL](https://github.com/shivamkumar0174/Random-URL.git)
 
@@ -19,9 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@shiv_amyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shiv_amyadav" height="30" width="40" /></a>
+<a href="https://twitter.com/shiv_amyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiv_amyadav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivam kumar 🇮🇳" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam kumar 🇮🇳" height="30" width="40" /></a>
 <a href="https://instagram.com/shiv.xm_yadav0174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiv.xm_yadav0174" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shivamkumar0174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamkumar0174" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kumarshivtjfn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kumarshivtjfn" height="30" width="40" /></a>
 <a href="https://discord.gg/shiv.xm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shiv.xm" height="30" width="40" /></a>
 </p>
 
