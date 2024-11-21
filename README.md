@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">A passionate frontend and Backend developer from India</h3>
 
+<p align="left"> <img src="https://1drv.ms/v/s!AjoQAyXb9fm-lwilfgVAqQ9YS26l?e=C2BDvk" alt="shivamkumar0174" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkumar0174&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkumar0174" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkumar0174" alt="shivamkumar0174" /></a> </p>
