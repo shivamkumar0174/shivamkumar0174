@@ -1,4 +1,4 @@
-# Hi there, I'm Shivam Yadav 👋
+# Hi there, I'm Shivam Kumar 👋
 
 🎓 Computer Science Graduate passionate about software development, problem-solving, and building impactful digital solutions.
 
